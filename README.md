@@ -1,5 +1,8 @@
 # Naveen Mukkatt's Submission for the ACM Research coding challenge (Fall 2022)
 
+Kaggle Notebook:
+https://www.kaggle.com/code/nvc541/acm-research-submission?scriptVersionId=105013794
+
 ## 1 Motivation
 Dataset: https://www.kaggle.com/datasets/chancev/carsforsale 
 
